@@ -1,0 +1,11 @@
+{
+  "name": "dataapp",
+  "version": "1.0.0",
+  "description": "This is an Application for Data Driven Applications, Creative Technology 2019",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zanur Krol",
+  "license": "ISC"
+}
